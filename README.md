@@ -17,3 +17,8 @@ pip install pillow
 ARCHIVOS NECESARIOS PARA LA EJECUCIÓN
 - ✅ "documentacion.md"
 - 🌆 "diagrama de flujo.jpg"
+
+
+## Diagrama de flujo
+
+![Diagrama de flujo](./diagrama%20de%20flujo.jpg)
